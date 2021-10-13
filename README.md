@@ -17,11 +17,11 @@ Here, we love a good challenge and are looking forward to learning, stretching o
 
 
 - Name surname `@thevalueadder` 
-- Prof
-- Interests
+- Medical Laboratory Scientist/Epidemiology, molecular biology and data science enthusiast 
+- I'm interested in leveraging research, technology and art to contribute to better health outcomes, especially for infectious diseases 
 - <img src="https://img.icons8.com/office/24/000000/slack.png"/> `thevalueadder`
-- <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> Link
-- <img src="https://img.icons8.com/color/24/000000/twitter.png"/>  Link
+- <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> [https://www.linkedin.com/in/estheropone](https://www.linkedin.com/in/estheropone)
+- <img src="https://img.icons8.com/color/24/000000/twitter.png"/>  [https://www.twitter.com/thevalueadder_](https://www.twitter.com/thevalueadder_)
 
 <p align="center">
 <img src="" width="200" height="200">
@@ -57,7 +57,7 @@ Here, we love a good challenge and are looking forward to learning, stretching o
 - I am interested in applying technology and data to empower people. 
 - <img src="https://img.icons8.com/office/24/000000/slack.png"/> `JuanmaGarcia`
 - <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> [https://www.linkedin.com/in/juanmgar](https://www.linkedin.com/in/juanmgar)
-- <img src="https://img.icons8.com/color/24/000000/twitter.png"/>  [https://twitter.com/juanmgar](https://twitter.com/juanmgar)
+- <img src="https://img.icons8.com/color/24/000000/twitter.png"/>  [https://www.twitter.com/juanmgar](https://www.twitter.com/juanmgar)
 
 <p align="center">
 <img src="" width="200" height="200">
