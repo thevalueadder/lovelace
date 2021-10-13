@@ -6,6 +6,11 @@ Here, we love a good challenge and are looking forward to learning, stretching o
 - 💊🧬🔬🖥️HackBio: [https://thehackbio.com](https://thehackbio.com)
 - 🔎 Checkout the project we are currently working on: [https://github.com/thevalueadder/lovelace/](https://github.com/thevalueadder/lovelace/)
 
+<h3 align="left"> The languages we are working with</h3>
+
+- [x] Javascript <img src="https://user-images.githubusercontent.com/77963733/128212530-0c20444b-f23b-4201-9dca-cfc016ad3b73.png" width="20" height="20">
+- [ ] ....
+
 <h2 align="center"> Teammates </h2>
 
 <p align="center">
