@@ -1,4 +1,3 @@
-Hi
 <h1 align="center"> Hi there👋, we are #Team Lovelace, welcome to our space!</h1>
 <h3 align="center"> We are a team for HackBio'2021 Virtual 👩‍💻 💻Bioinformatics 👨‍💻 Internship</h3>
 Here, we love a good challenge and are looking forward to learning, stretching ourselves and collaborating effectively.
