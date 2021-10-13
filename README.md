@@ -1,4 +1,4 @@
-
+Hi
 <h1 align="center"> Hi there👋, we are #Team Lovelace, welcome to our space!</h1>
 <h3 align="center"> We are a team for HackBio'2021 Virtual 👩‍💻 💻Bioinformatics 👨‍💻 Internship</h3>
 Here, we love a good challenge and are looking forward to learning, stretching ourselves and collaborating effectively.
@@ -23,9 +23,9 @@ Here, we love a good challenge and are looking forward to learning, stretching o
 <img src="" width="200" height="200">
 
 
-- Name surname `@DaniChinwendu` 
-- Prof
-- Interests
+- Name surname Ukaegbu Daniel Chinwendu@DaniChinwendu` 
+- genomics, transcripnomics, data science
+- I am interested in bioinformatics especially genomics , computational biology and transcrpnomics
 - <img src="https://img.icons8.com/office/24/000000/slack.png"/> `Ukaegbu Daniel C`
 - <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> Link
 - <img src="https://img.icons8.com/color/24/000000/twitter.png"/>  Link
@@ -35,8 +35,10 @@ Here, we love a good challenge and are looking forward to learning, stretching o
 
 
 - Name surname `@ToheebAmoo` 
-- Prof
-- Interests
+- 
+- 
+
+
 - <img src="https://img.icons8.com/office/24/000000/slack.png"/> `Toheeb amoo`
 - <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> Link
 - <img src="https://img.icons8.com/color/24/000000/twitter.png"/>  Link
