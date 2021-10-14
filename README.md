@@ -31,7 +31,7 @@ Here, we love a good challenge and are looking forward to learning, stretching o
 - genomics, transcripnomics, data science
 - I am interested in bioinformatics especially genomics , computational biology and transcrpnomics
 - <img src="https://img.icons8.com/office/24/000000/slack.png"/> `Ukaegbu Daniel C`
-- <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> Link
+- <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> https://www.linkedin.com/in/daniel-chinwendu-ukaegbu-425b52167
 - <img src="https://img.icons8.com/color/24/000000/twitter.png"/>  Link
 
 <p align="center">
