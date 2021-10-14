@@ -13,7 +13,7 @@ Here, we love a good challenge and are looking forward to learning, stretching o
 <h2 align="center"> Teammates </h2>
 
 <p align="center">
-<img src="" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/92184734/137252429-a2c2e69b-f7aa-469f-b191-3a2e6aa33506.jpeg" width="200" height="250">
 
 
 - Name surname `@thevalueadder` 
