@@ -1,8 +1,8 @@
-var name = "Juan Manuel García Sierra";
-var email = "juanmgar@gmail.com";
-var slack_username = "@"+"JuanmaGarcia";
+var name = "Toheeb Olabayonle Amoo";
+var email = "amootoheeb50@gmail.com";
+var slack_username = "@"+"ToheebAmoo";
 var biostack = "Genomics";
-var twitter_username = "@juanmgar";
+var twitter_username = "@amoo_bayo";
 
 function hammingDist(str1, str2)
 {
