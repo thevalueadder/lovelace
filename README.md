@@ -38,15 +38,12 @@ Here, we love a good challenge and are looking forward to learning, stretching o
 <img src="" width="200" height="200">
 
 
-- Name surname `@ToheebAmoo` 
-- 
-- 
-
-
-- <img src="https://img.icons8.com/office/24/000000/slack.png"/> `Toheeb amoo`
-- <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> Link
-- <img src="https://img.icons8.com/color/24/000000/twitter.png"/>  Link
-
+- Toheeb Olabayonle Amoo `@ToheebAmoo` 
+- Medical laboratory science with concentration in Medical Microbiology
+- I am interested in using data science especially Genomics to solve problems
+- <img src="https://img.icons8.com/office/24/000000/slack.png"/> `Toheeb Amoo`
+- <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> [https://www.linkedin.com/in/toheeb-olabayonle-amoo](https://www.linkedin.com/in/toheeb-olabayonle-amoo)
+- <img src="https://img.icons8.com/color/24/000000/twitter.png"/>  [https://twitter.com/amoo_bayo](https://twitter.com/amoo_bayo)
 
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/4436049?v=4" width="200" height="200">
