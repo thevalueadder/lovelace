@@ -8,7 +8,7 @@ Here, we love a good challenge and are looking forward to learning, stretching o
 <h3 align="left"> The languages we are working with</h3>
 
 - [x] Javascript <img src="https://user-images.githubusercontent.com/77963733/128212530-0c20444b-f23b-4201-9dca-cfc016ad3b73.png" width="20" height="20">
-- [ ] ....
+- [x] Python <img src="https://user-images.githubusercontent.com/92184734/137252852-15719f17-770a-4b08-9184-111fd504e419.png" width="20" height="20">
 
 <h2 align="center"> Teammates </h2>
 
