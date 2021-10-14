@@ -57,15 +57,16 @@ Here, we love a good challenge and are looking forward to learning, stretching o
 - <img src="https://img.icons8.com/color/24/000000/twitter.png"/>  [https://www.twitter.com/juanmgar](https://www.twitter.com/juanmgar)
 
 <p align="center">
-<img src="" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/92435273/137291721-c3bc1b4a-9da8-4f18-9b96-1af1c3dc0410.jpg" width="200" height="200">
+  
 
+- Name surname `Salma El-Shafie`
 
-- Name surname `@SalmaElShafie` 
-- Prof
-- Interests
+- Teaching assistant of Genetics and Molecular Biology and recently steering towards bioinformatics research 
+- Interested in Transcriptomics, genomics of neurodegenerative disease, gene-environment interactions
 - <img src="https://img.icons8.com/office/24/000000/slack.png"/> `SalmaElShafie`
-- <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> Link
-- <img src="https://img.icons8.com/color/24/000000/twitter.png"/>  Link
+- <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> [https://www.linkedin.com/in/salma-el-shafie-9b224570/]
+- <img src="https://img.icons8.com/color/24/000000/twitter.png"/>  [https://twitter.com/SalmaElShafie8]
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/92405912/137291764-3b5d3b9b-d2a3-4bd9-a270-c426ea8f7aea.JPG" width="250" height="350">
