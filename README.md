@@ -75,9 +75,9 @@ Here, we love a good challenge and are looking forward to learning, stretching o
 
 
 - Name surname `@Oluwadamife` 
-- Prof
-- Interests
+- Medical Laboratory Scientist (Histopathologist).
+- I am interested in genomics and applying technology to improve the healthcare system.
 - <img src="https://img.icons8.com/office/24/000000/slack.png"/> `Oluwadamife`
-- <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> Link
-- <img src="https://img.icons8.com/color/24/000000/twitter.png"/>  Link
+- <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> [https://www.linkedin.com/in/damilola-olamide-olaseni-](https://www.linkedin.com/in/damilola-olamide-olaseni-)
+- <img src="https://img.icons8.com/color/24/000000/twitter.png"/>  [https://www.twitter.com/virtuous_dammy](https://www.twitter.com/virtuous_dammy)
 
