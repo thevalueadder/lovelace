@@ -16,7 +16,7 @@ Here, we love a good challenge and are looking forward to learning, stretching o
 <img src="https://user-images.githubusercontent.com/92184734/137252429-a2c2e69b-f7aa-469f-b191-3a2e6aa33506.jpeg" width="200" height="250">
 
 
-- Name surname `@thevalueadder` 
+- Esther Opone `@thevalueadder` 
 - Medical Laboratory Scientist/Epidemiology, molecular biology and data science enthusiast 
 - I'm interested in leveraging research, technology and art to contribute to better health outcomes, especially for infectious diseases 
 - <img src="https://img.icons8.com/office/24/000000/slack.png"/> `thevalueadder`
