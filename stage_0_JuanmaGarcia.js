@@ -16,4 +16,4 @@ function hammingDist(str1, str2)
     return count;
 }
 
-console.log(name+", "+ email+", "+ slack_username+", "+ biostack+", "+ twitter_username+", "+ hammingDist(slack_username,twitter_usernme));
+console.log(name+", "+ email+", "+ slack_username+", "+ biostack+", "+ twitter_username+", "+ hammingDist(slack_username,twitter_username));
