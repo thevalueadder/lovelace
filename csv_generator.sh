@@ -12,6 +12,7 @@ node stage_0_ToheebAmoo.js >>team_lovelace.csv
 node stage_0_oluwadamife.js >>team_lovelace.csv
 node stage_0_SalmaElShafie.js >>team_lovelace.csv
 node stage_0_EstherOpone.py >>team_lovelace.csv
+node stage_0_SamAdeneye.py >>team_lovelace.csv
 
 
 echo "***CSV generated!***"
