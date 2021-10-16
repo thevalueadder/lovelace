@@ -25,7 +25,7 @@ Here, we love a good challenge and are looking forward to learning, stretching o
   
 <hr style="width:40%">
 <p align="center">
-<img src="" width="200" height="200">
+<img src="https://avatars.githubusercontent.com/u/88294154?v=4" width="200" height="200">
 
 
 - Name surname Ukaegbu Daniel Chinwendu `@DaniChinwendu` 
@@ -85,12 +85,13 @@ Here, we love a good challenge and are looking forward to learning, stretching o
 - <img src="https://img.icons8.com/color/24/000000/twitter.png"/>  https://www.twitter.com/virtuous_dammy
   
   
+<hr style="width:40%">
 <p align="center">
 <img src="https://user-images.githubusercontent.com/92327878/137253139-0b53deba-0ab2-4314-95d0-d04fd79a688f.JPG" width="300" height="300">
 
-- @SamAdeneye`
+- Samuel Adeneye `@SamAdeneye`
 - HackBio Intern
 - Tech enthusiast passionate about data science research in Epidemiology.  
-- 👋👉samueladeneye75@gmail.com
- - <img src="https://img.icons8.com/office/24/000000/slack.png"/> `SamAdeneye`
+- <img src="https://img.icons8.com/office/24/000000/slack.png"/> `SamAdeneye`
+- <img src="https://img.icons8.com/color/24/000000/twitter.png"/>  https://www.twitter.com/Unkool_Sam
 
