@@ -13,4 +13,4 @@ def hammD(su,th):
 
 hamming_distance = hammD(slack_username, twitter_handle)
 
-print(name,email,slack_username,biostack,twitter_handle,hamming_distance, sep="\n")
+print name +', '+email+', '+slack_username+', '+biostack+', '+twitter_handle+',',hamming_distance
