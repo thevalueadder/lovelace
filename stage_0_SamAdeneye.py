@@ -1,6 +1,6 @@
 name = "Samuel Adeneye" 
 email = "samueladeneye75@gmail.com" 
-slack_username = "SamAdeneye"
+slack_username = "@SamAdeneye"
 biostack = "Data Science and Machine Learning" 
 twitter_handle = "@Unkool_Sam"
 
